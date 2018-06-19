@@ -37,5 +37,5 @@ MIT
 
 [Facebook]: <https://goo.gl/44kRqW>
 [Linkedin]: <https://goo.gl/pxSSj2>
-[Mail]: <mail://cristian.paixao@outlook.com>
+[Mail]: <mailto:cristian.paixao@outlook.com>
 
