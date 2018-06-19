@@ -24,9 +24,9 @@ Content:
 ---
 # Social Medias
 
-* My [Facebook].
+* My [Facebook]
 * My [Linkedin]
-* My [Mail]
+* My [Mail] - cristian.paixao@outlook.com
 
 License
 ----
