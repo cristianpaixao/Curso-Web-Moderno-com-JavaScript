@@ -26,7 +26,7 @@ Content:
 
 * My [Facebook]
 * My [Linkedin]
-* My [Mail] - cristian.paixao@outlook.com
+* My [Mail]
 
 License
 ----
