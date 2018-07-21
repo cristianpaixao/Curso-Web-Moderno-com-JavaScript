@@ -8,6 +8,11 @@ Conteúdo:
 * Comentários
 * Variáveis e tipagem Fraca
 * Tipos
+* Operadores
+* Funções
+* Conceito de hoisting
+* Conceito de destructuring
+* Tratamento de Exceções
 
 ---
 
@@ -20,6 +25,11 @@ Content:
 * Comments
 * Variables and weak types
 * Types
+* Operators
+* Functions
+* Hoisting concept
+* Destructuring concept
+* Exception handling
 
 ---
 # Social Medias
