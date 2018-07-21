@@ -17,7 +17,7 @@ for (let y in nums) {
 // Break rotulado (CUIDADO COM ESSE TIPO DE ESTRUTURA, EVITE!)
 externo: for (let a in nums) {
     for(let b in nums) {
-        if (a == 2 && b == 3) break externo
+        if (a == 2 && b == 3) break externo // ISSO QUE VOCE DEVE EVITAR
         console.log(`par = ${a}, ${b}`)
     }
 }
