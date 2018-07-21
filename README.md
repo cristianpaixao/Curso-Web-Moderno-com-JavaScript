@@ -14,6 +14,11 @@ Conteúdo:
 * Conceito de destructuring
 * Tratamento de Exceções
 
+2 - **Estruturas de controle** Aqui estão contidos exemplos de uso de estruturas de controle em javascript tais como:
+* Condições (if, if/else, if/else if, switch)
+* Loops (while, do/while, for, for/in)
+* uso do break/continue
+
 ---
 
 **English Version:**
@@ -30,6 +35,11 @@ Content:
 * Hoisting concept
 * Destructuring concept
 * Exception handling
+
+2 - **Control structures** Here are examples of using javascript control structures such as:
+* Conditions (if, if/else, if/else if, switch)
+* Loops (while, do/while, for, for/in)
+* use of break/continue
 
 ---
 # Social Medias
