@@ -19,6 +19,22 @@ Conteúdo:
 * Loops (while, do/while, for, for/in)
 * uso do break/continue
 
+3 - **Funções** Aqui estão contidos exemplos de uso de funções em javascript tais como:
+* Funções com e sem retorno
+* Parâmetros variáveis
+* Parâmetro padrão
+* Variação do "this"
+* "This" e "bind"
+* Funções arrow
+* Funções anônimas
+* Funções callback
+* Funções construtoras
+* Contexto Léxico
+* Closure
+* Factory
+* Classe vs Factory
+* IIFE
+* Call & Apply
 ---
 
 **English Version:**
@@ -40,6 +56,23 @@ Content:
 * Conditions (if, if/else, if/else if, switch)
 * Loops (while, do/while, for, for/in)
 * use of break/continue
+
+3 - **Functions** Here are examples of using javascript functions such as:
+* Functions with and without return
+* Variable parameters
+* Default parameter
+* Variation of "this"
+* "This" and "bind"
+* Arrow functions
+* Anonymous functions
+* Callback functions
+* Construction functions
+* Lexical Context
+* Closure
+* Factory
+* Class vs. Factory
+* IIFE
+* Call & Apply
 
 ---
 # Social Medias
